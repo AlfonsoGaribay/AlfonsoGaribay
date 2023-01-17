@@ -6,7 +6,6 @@ Senior at SJSU, iOS developer, Front-end developer/designer
 
 * 🌍  I'm based in the California Bay Area 
 * 🖥️  See my portfolio at [my github.](http://github.com/AlfonsoGaribay?tab=repositories) 
-* 🚀  I'm currently working on [a website Design for my client using Figma.](http://www.figma.com/proto/YSxccJNsQgrNRcs7YOYnpn/Project-Soyla?page-id=0%3A1&node-id=2%3A2&starting-point-node-id=2%3A2) 
 * 🧠  I'm learning Typescript, SwiftUI & React (Hooks) 
 * 🤝  I'm open to collaborating on User interface designs, Front-End work, iOS development with UIkit 
 * ⚡  I speak English and some Italian and Spanish

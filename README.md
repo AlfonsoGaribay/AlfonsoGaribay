@@ -1,8 +1,10 @@
 Hi 👋 My name is Alfonso Garibay 
 
-Senior at SJSU, iOS developer, Front-end developer/designer
+Recent computer engineering grad from SJSU.
 
-  I'm finishing up my senior year at SJSU this fall as a Computer Engineering major. While at SJSU I've occupied myself with learning and exposing myself to various technologies, like iOS development through a great bootcamp called CodePath. I finished that with honors, it was a lot of fun and I got a great understanding of UIKit. On my spare time ive also been stuydying full-stack developement and design, I've grown fond of front end developement and I love using FIgma for my design work! I'm still trying to expand my frame of reference in respect to the tech feild so I eagerly embrace an opportunity to learn and collab with others on cool projects!  
+Im passionate about possiby becoming an iOS and/or web developer/designer.
+
+While at SJSU I've occupied myself with learning and exposing myself to various technologies, like iOS development through a great bootcamp called CodePath. I finished that with honors, it was a lot of fun and I got a great understanding of UIKit. On my spare time ive also been stuydying full-stack developement and design, I've grown fond of front end developement and I love using Figma for my design work! I'm still trying to expand my frame of reference in respect to the tech feild so I eagerly embrace an opportunity to learn and collab with others on cool projects!  
 
 * 🌍  I'm based in the California Bay Area 
 * 🖥️  See my portfolio at [my github.](http://github.com/AlfonsoGaribay?tab=repositories) 

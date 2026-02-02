@@ -27,7 +27,8 @@ I’m drawn to work where design clarity, technical reasoning, and user experien
 
 ## Current Stack & Tools
 
-- **Languages & frameworks:** SwiftUI, TypeScript, React  
+- **Languages & frameworks:** SwiftUI, TypeScript, React, Astro
+- **Styling & layout: ** TailwindCSS
 - **Design & prototyping:** Figma, Webflow  
 - **Mindset:** design-first, system-aware, implementation-conscious  
 

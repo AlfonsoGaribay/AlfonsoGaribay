@@ -1,4 +1,4 @@
-# Hi 👋 I’m Alfonso Garibay
+# Hi 👋 I’m Alfonso
 
 ### Design-minded engineer focused on interfaces, systems, and product thinking
 

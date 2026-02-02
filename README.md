@@ -1,24 +1,53 @@
-Hi 👋 My name is Alfonso Garibay 
+# Hi 👋 I’m Alfonso Garibay
 
-Recent computer engineering grad from SJSU.
+### Design-minded engineer focused on interfaces, systems, and product thinking
 
-Im passionate about possiby becoming an iOS and/or web developer/designer.
+---
 
-While at SJSU I've occupied myself with learning and exposing myself to various technologies, like iOS development through a great bootcamp called CodePath. I finished that with honors, it was a lot of fun and I got a great understanding of UIKit. On my spare time ive also been stuydying full-stack developement and design, I've grown fond of front end developement and I love using Figma for my design work! I'm still trying to expand my frame of reference in respect to the tech feild so I eagerly embrace an opportunity to learn and collab with others on cool projects!  
+## About
 
-* 🌍  I'm based in the California Bay Area 
-* 🖥️  See my portfolio at [my github.](http://github.com/AlfonsoGaribay?tab=repositories) 
-* 🧠  I'm learning Typescript, SwiftUI & React (Hooks) 
-* 🤝  I'm open to collaborating on User interface designs, Front-End work, iOS development with UIkit 
-* ⚡  I speak English and some Italian and Spanish
+I’m a design-minded engineer interested in building thoughtful digital interfaces and product experiences.
 
-### Skills
+My background in computer engineering shapes how I approach design and development, especially when thinking about systems, constraints, and technical feasibility. I’ve worked across iOS, front-end development, and interface design, often focusing on how products should behave as much as how they look.
 
-<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p> 
- ### Socials  <p align="left"> <a href="https://www.github.com/AlfonsoGaribay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alfonso-garibay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
+In recent years, I’ve spent a lot of time refining design work — exploring layouts, interaction patterns, and UI systems — with implementation always in mind, even when projects aren’t fully deployed. I enjoy learning by building, iterating, and documenting decisions along the way.
 
-<b>My GitHub Stats</b>
+I’m drawn to work where design clarity, technical reasoning, and user experience intersect, and I’m continuing to grow in environments that value craft, curiosity, and collaboration.
 
-<a href="http://www.github.com/AlfonsoGaribay"><img src="https://github-readme-stats.vercel.app/api?username=AlfonsoGaribay&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="AlfonsoGaribay's GitHub stats" /></a>
-<a href="https://github.com/AlfonsoGaribay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoGaribay&langs_count=10&title_color=ffffff&text_color=0891b2&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## Focus Areas
+
+- **Interface & UI systems** — layout, hierarchy, interaction patterns  
+- **Front-end development** — React, TypeScript, implementation-aware design  
+- **iOS development** — UIKit foundations, SwiftUI exploration  
+- **Design tools** — Figma-driven workflows, Webflow prototyping  
+
+---
+
+## Current Stack & Tools
+
+- **Languages & frameworks:** SwiftUI, TypeScript, React  
+- **Design & prototyping:** Figma, Webflow  
+- **Mindset:** design-first, system-aware, implementation-conscious  
+
+---
+
+## Collaboration
+
+I’m open to collaborating on:
+- UI and design systems  
+- Front-end or interface-heavy projects  
+- iOS experiences with a strong UX focus  
+
+---
+
+## Details
+
+- 🌍 Based in California  
+- 🧠 Actively learning and refining across design and development  
+- ⚡ Languages: English, conversational Italian and Spanish  
+
+---
+
+_Thanks for stopping by._
